@@ -1,6 +1,8 @@
 body {
     background-image: url("./Ginger-cake-Landscape-1.jpg");
     padding: 16px 36px;
+    background-repeat: no-repeat;
+    
 }
 .nav h1 {
     display: inline-block;
